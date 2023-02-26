@@ -6,11 +6,7 @@ import Register from "./pages/register/Register";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import SingleGroup from "./pages/Groups/SingleGroup"
 import { Routes, Route } from "react-router-dom";
-import Group from "./pages/Groups/Group";
-import MyGroup from "./pages/Groups/MyGroup";
-
-
-
+import Groups from "./pages/Groups/Groups";
 
 
 
